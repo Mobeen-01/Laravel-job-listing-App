@@ -4,7 +4,7 @@
 [![PHP](https://img.shields.io/badge/PHP-8.x-blue.svg?style=flat&logo=php)](https://www.php.net)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-LaraGigs is a **Laravel-based job listing platform** where users can **find or post Laravel-related jobs and projects**. Built as part of the **[Laravel From Scratch 2022](https://www.youtube.com/watch?v=MYyJ4PuL4pY)** YouTube course.
+LaraGigs is a Laravel-based job listing platform designed to help users find or post Laravel-related jobs and projects. It features user authentication (signup & login), profile management, job listings with pagination, and a smooth user experience. Below is a screenshot showcasing the job listings section.
 
 ![LaraGigs Screenshot](public/images/screen.png)
 
